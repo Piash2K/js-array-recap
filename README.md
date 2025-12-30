@@ -1,6 +1,8 @@
 
 # 🧠 JavaScript Array Recap
 
+This is a recap of JS Array
+
 A simple collection of JavaScript array-related exercises & utility scripts to help you practice and solidify your understanding of array operations in JS.
 
 This repo includes small standalone JavaScript programs demonstrating common array patterns such as looping, reversing, sorting, and string manipulation.
